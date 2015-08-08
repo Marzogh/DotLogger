@@ -1,0 +1,35 @@
+Partlist
+
+Exported from DotLogger.brd at 8/08/2015 10:32 am
+
+EAGLE Version 7.2.0 Copyright (c) 1988-2014 CadSoft
+
+Assembly variant: 
+
+Part     Value          Package               Library                    Position (mil)        Orientation
+
+ACT      RED            CHIP-LED0805          adafruit                   (1347.84129 1524.74176) R180
+BAT2     3.3V           BATTCON_12MM          SparkFun-Electromechanical (924.57517 1687.13792) MR180
+C3       100µF          0402-CAP              SparkFun-Capacitors        (511.69488 1670.59166) MR270
+C4       10µF           0402-CAP              SparkFun-Capacitors        (452.20952 1663.47847) MR90
+CN1      3.3V           JST-PH-2-SMT-RA       adafruit                   (149.00591 1661.82222) MR270
+D1       RB751          SOD-523               SparkFun-DiscreteSemi      (435.98118 1585.51058) R0
+D2       RB751          SOD-523               SparkFun-DiscreteSemi      (438.07566 1654.79355) R0
+D3       RB751          SOD-523               SparkFun-DiscreteSemi      (439.14001 1735.22908) R180
+IC1      4050D          SO16                  40xx                       (1573.76747 1724.91634) R270
+JP1                     1X08_NO_SILK          SparkFun-Connectors        (344.72318 2073.45337) R0
+JP2                     1X08_NO_SILK          SparkFun-Connectors        (1043.21284 1404.06213) R180
+JP3                     1X05_NO_SILK          SparkFun-Connectors        (1149.76353 1406.67987) R0
+JP4                     1X06-SMD              SparkFun-Connectors        (2038.30746 1760.64469) R90
+JP5      M02PTH         1X02                  SparkFun-Connectors        (1390.24926 2072.78445) R0
+R1       1K             R0805                 adafruit                   (1206.65121 1495.93135) R0
+R2       4K7            0402-RES              SparkFun-Passives          (1138.67237 1713.09437) R270
+R3       PHOTOCELLPTH   PHOTOCELL             SparkFun-Sensors           (1204.15416 2022.95682) R0
+R4       10K            0402-RES              SparkFun-Passives          (1082.76439 1710.77498) R90
+RESET    SPST_TACT-KMR2 KMR2                  adafruit                   (1252.05081 1678.10581) R90
+U1       ATMEGA328P-MU  QFN50P500X500X100-33N Atmel                      (852.63829 1674.72699) R0
+U2       HTU21DSMD      HTU21D                SparkFun-Sensors           (130.25529 2055.45202) R359.2
+U4       DS1307         SOIC8_150MIL          microbuilder               (510.98671 1912.40859) R270
+X1       MICROSD        MICROSD               adafruit                   (2137.51821 1453.06754) MR90
+Y1       16MHZ          RESONATOR-SMD         SparkFun-FreqCtrl          (622.93467 1675.31275) R90
+Y2       32.768kHz      CRYSTAL-32KHZ-SMD     SparkFun-FreqCtrl          (90.00344 1813.69119) R180
